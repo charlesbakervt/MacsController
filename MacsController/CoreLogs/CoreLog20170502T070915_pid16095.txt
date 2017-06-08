@@ -1,0 +1,14 @@
+2017-05-02T07:09:15.145229 tid140365946038016 [IFO,LogManager] Enabled primary log file /home/charles/Dropbox/Johan/Code/JavaCode/MacsGUI/CoreLogs/CoreLog20170502T070915_pid16095.txt
+2017-05-02T07:09:15.147066 tid140365946038016 [IFO,App] EDTHangLogger: Started monitoring of EDT hangs
+                                              [       ] [heartbeat timeout = 4500 ms, hang check interval = 1000 ms]
+2017-05-02T07:09:15.147095 tid140365946038016 [IFO,App] User: charles
+2017-05-02T07:09:15.147121 tid140365946038016 [IFO,App] Host: Hofstadter
+2017-05-02T07:09:15.147131 tid140365946038016 [IFO,App] MM Studio version: 1.4.x dev
+2017-05-02T07:09:15.147173 tid140365946038016 [IFO,App] MMCore version 8.5.0
+2017-05-02T07:09:15.147199 tid140365946038016 [IFO,App] Device API version 67, Module API version 10
+2017-05-02T07:09:15.147212 tid140365946038016 [IFO,App] Operating System: Linux (amd64) 4.4.0-71-generic
+2017-05-02T07:09:15.147223 tid140365946038016 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-05-02T07:09:17.877751 tid140365946038016 [IFO,App] EDTHangLogger: Stopping monitoring of EDT hangs
+2017-05-02T07:09:17.877843 tid140365946038016 [IFO,Core] Did unload all devices
+2017-05-02T07:09:17.877858 tid140365946038016 [IFO,Core] System reset
+2017-05-02T07:09:17.877867 tid140365946038016 [IFO,Core] Core session ended

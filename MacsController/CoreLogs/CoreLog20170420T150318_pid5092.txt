@@ -1,0 +1,11 @@
+2017-04-20T15:03:18.299763 tid8036 [IFO,LogManager] Enabled primary log file C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGUI\CoreLogs\CoreLog20170420T150318_pid5092.txt
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] User: cjb33
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] Host: SB-PAULS-1CJB33
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] MM Studio version: 1.4.22
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] MMCore version 8.1.0
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] Device API version 65, Module API version 10
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] Operating System: Windows 7 (amd64) 6.1
+2017-04-20T15:03:18.299763 tid8036 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-04-20T15:03:21.434076 tid8036 [IFO,Core] Did unload all devices
+2017-04-20T15:03:21.434076 tid8036 [IFO,Core] System reset
+2017-04-20T15:03:21.434076 tid8036 [IFO,Core] Core session ended

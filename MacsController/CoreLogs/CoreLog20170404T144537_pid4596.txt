@@ -1,0 +1,59 @@
+2017-04-04T14:45:37.060597 tid7616 [IFO,LogManager] Enabled primary log file C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGUI\CoreLogs\CoreLog20170404T144537_pid4596.txt
+2017-04-04T14:45:37.060597 tid7616 [IFO,App] User: cjb33
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] Host: SB-PAULS-1CJB33
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] MM Studio version: 1.4.22
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] MMCore version 8.1.0
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] Device API version 65, Module API version 10
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] Operating System: Windows 7 (amd64) 6.1
+2017-04-04T14:45:37.061597 tid7616 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-04-04T14:45:38.526744 tid7616 [IFO,App] Finished waiting for plugins to load
+2017-04-04T14:45:38.534745 tid7616 [IFO,Core] Did unload all devices
+2017-04-04T14:45:38.536745 tid7616 [IFO,Core] Did load device COM5 from SerialManager; label = COM5
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DHub from DemoCamera; label = DHub
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device Arduino-Hub from Arduino; label = Arduino-Hub
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device Arduino-Switch from Arduino; label = Arduino-Switch
+2017-04-04T14:45:38.537745 tid7616 [IFO,Core] Did load device Arduino-Shutter from Arduino; label = Arduino-Shutter
+2017-04-04T14:45:38.538745 tid7616 [IFO,Core] Did load device Arduino-Input from Arduino; label = Arduino-Input
+2017-04-04T14:45:38.538745 tid7616 [IFO,Core] Did load device Arduino-DAC1 from Arduino; label = Arduino-DAC1
+2017-04-04T14:45:38.538745 tid7616 [IFO,Core] Did load device Arduino-DAC2 from Arduino; label = Arduino-DAC2
+2017-04-04T14:45:38.538745 tid7616 [IFO,Core] Will initialize 18 devices
+2017-04-04T14:45:38.538745 tid7616 [IFO,Core] Will initialize device COM5
+2017-04-04T14:45:38.538745 tid7616 [IFO,dev:COM5] Failed to open serial port \\.\COM5: CreateFileA() returned Windows system error code 5
+2017-04-04T14:45:38.538745 tid7616 [ERR,Core:dev:COM5] Error in device "COM5": Unknown error in the device (1)
+2017-04-04T14:45:38.552746 tid7616 [IFO,Core] Unloading all devices after failure to load system configuration
+2017-04-04T14:45:38.553746 tid7616 [IFO,Core] Did unload all devices
+2017-04-04T14:45:38.553746 tid7616 [IFO,Core] Now rethrowing original error from system configuration loading
+2017-04-04T14:45:38.582749 tid7616 [IFO,App] Failed to load hardware configuation
+                                   [       ] java.lang.Exception: Line 61: Property,Core,Initialize,1
+                                   [       ] Error in device "COM5": Unknown error in the device (1)
+                                   [       ] 
+                                   [       ]  in Thread[main,5,main]
+                                   [       ]   at mmcorej.MMCoreJJNI.CMMCore_loadSystemConfiguration(Native Method)
+                                   [       ]   at mmcorej.CMMCore.loadSystemConfiguration(CMMCore.java:322)
+                                   [       ]   at org.micromanager.MMStudio.loadSystemConfiguration(MMStudio.java:1723)
+                                   [       ]   at org.micromanager.MMStudio.initializationSequence(MMStudio.java:480)
+                                   [       ]   at org.micromanager.MMStudio.<init>(MMStudio.java:374)
+                                   [       ]   at edu.paulssonlab.macsplugin.main.TestMacs.main(TestMacs.java:14)
+2017-04-04T14:45:41.593050 tid7616 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-04T14:45:41.593050 tid7616 [IFO,Core] Did update system state cache
+2017-04-04T14:45:41.593050 tid7616 [IFO,App] Finished updating GUI
+2017-04-04T14:45:41.599051 tid7616 [IFO,App] Startup script file (C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGUI\MMStartup.bsh) not present.
+2017-04-04T14:45:41.635055 tid7616 [IFO,Core] Channel group set to Channel
+2017-04-04T14:45:41.636055 tid7616 [IFO,App] Error: "Cy5" is not found in the current Channel group.
+2017-04-04T14:45:41.636055 tid7616 [IFO,App] Error: "DAPI" is not found in the current Channel group.
+2017-04-04T14:45:41.636055 tid7616 [IFO,App] Error: "FITC" is not found in the current Channel group.
+2017-04-04T14:45:41.703061 tid7616 [IFO,App] Rebuilding config group table
+2017-04-04T14:45:41.703061 tid7616 [IFO,App] Finished rebuilding config group table
+2017-04-04T14:45:50.403931 tid6724 [IFO,Core] Did unload all devices
+2017-04-04T14:45:50.403931 tid6724 [IFO,Core] System reset
+2017-04-04T14:45:50.403931 tid6724 [IFO,Core] Core session ended

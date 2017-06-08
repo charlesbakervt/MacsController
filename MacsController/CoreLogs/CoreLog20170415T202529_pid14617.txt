@@ -1,0 +1,85 @@
+2017-04-15T20:25:29.350596 tid140285155706624 [IFO,LogManager] Enabled primary log file /home/charles/Dropbox/Johan/Code/JavaCode/MacsGUI/CoreLogs/CoreLog20170415T202529_pid14617.txt
+2017-04-15T20:25:29.352581 tid140285155706624 [IFO,App] EDTHangLogger: Started monitoring of EDT hangs
+                                              [       ] [heartbeat timeout = 4500 ms, hang check interval = 1000 ms]
+2017-04-15T20:25:29.352610 tid140285155706624 [IFO,App] User: charles
+2017-04-15T20:25:29.352648 tid140285155706624 [IFO,App] Host: Hofstadter
+2017-04-15T20:25:29.352658 tid140285155706624 [IFO,App] MM Studio version: 1.4.x dev
+2017-04-15T20:25:29.352697 tid140285155706624 [IFO,App] MMCore version 8.5.0
+2017-04-15T20:25:29.352724 tid140285155706624 [IFO,App] Device API version 67, Module API version 10
+2017-04-15T20:25:29.352735 tid140285155706624 [IFO,App] Operating System: Linux (amd64) 4.4.0-71-generic
+2017-04-15T20:25:29.352746 tid140285155706624 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-04-15T20:25:43.139266 tid140285155706624 [IFO,App] Finished waiting for plugins to load
+2017-04-15T20:25:43.288357 tid140285155706624 [IFO,Core] Did unload all devices
+2017-04-15T20:25:43.289431 tid140285155706624 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-04-15T20:25:43.289465 tid140285155706624 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-04-15T20:25:43.289489 tid140285155706624 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-04-15T20:25:43.289512 tid140285155706624 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-04-15T20:25:43.289682 tid140285155706624 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-04-15T20:25:43.289713 tid140285155706624 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-04-15T20:25:43.289739 tid140285155706624 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-04-15T20:25:43.289773 tid140285155706624 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-04-15T20:25:43.289802 tid140285155706624 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-04-15T20:25:43.289831 tid140285155706624 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-04-15T20:25:43.289851 tid140285155706624 [IFO,Core] Will initialize 10 devices
+2017-04-15T20:25:43.289857 tid140285155706624 [IFO,Core] Will initialize device Camera
+2017-04-15T20:25:43.289866 tid140285155706624 [IFO,dev:Camera] Parent Hub not defined.
+2017-04-15T20:25:43.290027 tid140285155706624 [IFO,Core] Did initialize device Camera
+2017-04-15T20:25:43.290030 tid140285155706624 [IFO,Core] Default camera set to Camera
+2017-04-15T20:25:43.290032 tid140285155706624 [IFO,Core] Will initialize device Dichroic
+2017-04-15T20:25:43.290034 tid140285155706624 [IFO,dev:Dichroic] Parent Hub not defined.
+2017-04-15T20:25:43.290059 tid140285155706624 [IFO,Core] Did initialize device Dichroic
+2017-04-15T20:25:43.290061 tid140285155706624 [IFO,Core] Will initialize device Emission
+2017-04-15T20:25:43.290062 tid140285155706624 [IFO,dev:Emission] Parent Hub not defined.
+2017-04-15T20:25:43.290080 tid140285155706624 [IFO,Core] Did initialize device Emission
+2017-04-15T20:25:43.290081 tid140285155706624 [IFO,Core] Will initialize device Excitation
+2017-04-15T20:25:43.290083 tid140285155706624 [IFO,dev:Excitation] Parent Hub not defined.
+2017-04-15T20:25:43.290100 tid140285155706624 [IFO,Core] Did initialize device Excitation
+2017-04-15T20:25:43.290101 tid140285155706624 [IFO,Core] Will initialize device Objective
+2017-04-15T20:25:43.290102 tid140285155706624 [IFO,dev:Objective] Parent Hub not defined.
+2017-04-15T20:25:43.290115 tid140285155706624 [IFO,Core] Did initialize device Objective
+2017-04-15T20:25:43.290116 tid140285155706624 [IFO,Core] Will initialize device Z
+2017-04-15T20:25:43.290117 tid140285155706624 [IFO,dev:Z] Parent Hub not defined.
+2017-04-15T20:25:43.290125 tid140285155706624 [IFO,Core] Did initialize device Z
+2017-04-15T20:25:43.290127 tid140285155706624 [IFO,Core] Will initialize device Path
+2017-04-15T20:25:43.290129 tid140285155706624 [IFO,dev:Path] Parent Hub not defined.
+2017-04-15T20:25:43.290137 tid140285155706624 [IFO,Core] Did initialize device Path
+2017-04-15T20:25:43.290138 tid140285155706624 [IFO,Core] Will initialize device XY
+2017-04-15T20:25:43.290140 tid140285155706624 [IFO,dev:XY] Parent Hub not defined.
+2017-04-15T20:25:43.290142 tid140285155706624 [IFO,Core] Did initialize device XY
+2017-04-15T20:25:43.290143 tid140285155706624 [IFO,Core] Default xy stage set to XY
+2017-04-15T20:25:43.290144 tid140285155706624 [IFO,Core] Will initialize device Shutter
+2017-04-15T20:25:43.290145 tid140285155706624 [IFO,dev:Shutter] Parent Hub not defined.
+2017-04-15T20:25:43.290149 tid140285155706624 [IFO,Core] Did initialize device Shutter
+2017-04-15T20:25:43.290151 tid140285155706624 [IFO,Core] Default shutter set to Shutter
+2017-04-15T20:25:43.290152 tid140285155706624 [IFO,Core] Will initialize device Autofocus
+2017-04-15T20:25:43.290153 tid140285155706624 [IFO,dev:Autofocus] Parent Hub not defined.
+2017-04-15T20:25:43.290155 tid140285155706624 [IFO,Core] Did initialize device Autofocus
+2017-04-15T20:25:43.290156 tid140285155706624 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:25:43.290157 tid140285155706624 [IFO,Core] Finished initializing 10 devices
+2017-04-15T20:25:43.290206 tid140285155706624 [IFO,Core] Default camera set to Camera
+2017-04-15T20:25:43.290241 tid140285155706624 [IFO,Core] Default stage set to Z
+2017-04-15T20:25:43.290960 tid140285155706624 [IFO,Core] Did update system state cache
+2017-04-15T20:25:43.314816 tid140285155706624 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-15T20:25:43.315559 tid140285155706624 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:25:43.317536 tid140285155706624 [IFO,Core] Did update system state cache
+2017-04-15T20:25:43.317556 tid140285155706624 [IFO,App] Finished updating GUI
+2017-04-15T20:25:43.320737 tid140285155706624 [IFO,App] Startup script file (/home/charles/Dropbox/Johan/Code/JavaCode/MacsGUI/MMStartup.bsh) not present.
+2017-04-15T20:25:43.487222 tid140285155706624 [IFO,Core] Channel group set to Channel
+2017-04-15T20:25:43.678241 tid140285155706624 [IFO,Core] Channel group set to Channel
+2017-04-15T20:25:43.678415 tid140285155706624 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:25:43.681692 tid140285155706624 [IFO,Core] Channel group set to Channel
+2017-04-15T20:25:43.681771 tid140285155706624 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:25:43.686999 tid140285155706624 [IFO,App] Rebuilding config group table
+2017-04-15T20:25:43.688029 tid140285155706624 [IFO,App] Finished rebuilding config group table
+2017-04-15T20:26:19.301508 tid140284491908864 [IFO,Core] Channel group set to Channel
+2017-04-15T20:26:19.304556 tid140284582319872 [IFO,Core] Channel group set to Channel
+2017-04-15T20:26:19.304632 tid140284582319872 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:26:19.311566 tid140284491908864 [IFO,Core] Channel group set to Channel
+2017-04-15T20:26:19.311704 tid140284491908864 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:26:27.044003 tid140284449728256 [IFO,App] 18 images stored in 7582 ms.
+2017-04-15T20:26:54.568157 tid140284582319872 [IFO,Core] Channel group set to Channel
+2017-04-15T20:26:54.568226 tid140284582319872 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T20:26:54.625627 tid140284582319872 [IFO,App] EDTHangLogger: Stopping monitoring of EDT hangs
+2017-04-15T20:26:54.625879 tid140284582319872 [IFO,Core] Did unload all devices
+2017-04-15T20:26:54.625897 tid140284582319872 [IFO,Core] System reset
+2017-04-15T20:26:54.625907 tid140284582319872 [IFO,Core] Core session ended

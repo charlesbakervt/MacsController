@@ -1,0 +1,65 @@
+2017-05-19T09:35:01.769913 tid3424 [IFO,LogManager] Enabled primary log file C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGrowthGUI\CoreLogs\CoreLog20170519T093501_pid1560.txt
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] User: cjb33
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] Host: SB-PAULS-1CJB33
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] MM Studio version: 1.4.22
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] MMCore version 8.1.0
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] Device API version 65, Module API version 10
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] Operating System: Windows 7 (amd64) 6.1
+2017-05-19T09:35:01.770913 tid3424 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-05-19T09:35:04.837913 tid3424 [IFO,App] Finished waiting for plugins to load
+2017-05-19T09:35:04.857913 tid3424 [IFO,Core] Did unload all devices
+2017-05-19T09:35:04.859913 tid3424 [IFO,Core] Did load device DHub from DemoCamera; label = DHub
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize 11 devices
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device DHub
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device DHub
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Camera
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Camera
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default camera set to Camera
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Dichroic
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Dichroic
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Emission
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Emission
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Excitation
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Excitation
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Objective
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Objective
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Z
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Z
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Path
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Path
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device XY
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device XY
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default xy stage set to XY
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Shutter
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Shutter
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default shutter set to Shutter
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Will initialize device Autofocus
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Did initialize device Autofocus
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default autofocus set to Autofocus
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Finished initializing 11 devices
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default camera set to Camera
+2017-05-19T09:35:04.860913 tid3424 [IFO,Core] Default stage set to Z
+2017-05-19T09:35:04.863913 tid3424 [IFO,Core] Did update system state cache
+2017-05-19T09:35:04.892913 tid3424 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-05-19T09:35:04.893913 tid3424 [IFO,Core] Default autofocus set to Autofocus
+2017-05-19T09:35:04.895913 tid3424 [IFO,Core] Did update system state cache
+2017-05-19T09:35:04.895913 tid3424 [IFO,App] Finished updating GUI
+2017-05-19T09:35:04.897913 tid3424 [IFO,App] Startup script file (C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGrowthGUI\MMStartup.bsh) not present.
+2017-05-19T09:35:05.006913 tid3424 [IFO,Core] Default autofocus set to Autofocus
+2017-05-19T09:35:05.010913 tid3424 [IFO,Core] Default autofocus set to Autofocus
+2017-05-19T09:35:05.013913 tid3424 [IFO,App] Rebuilding config group table
+2017-05-19T09:35:05.015913 tid3424 [IFO,App] Finished rebuilding config group table
+2017-05-19T09:35:42.701913 tid3932 [IFO,Core] Default autofocus set to Autofocus
+2017-05-19T09:35:42.761913 tid3932 [IFO,Core] Did unload all devices
+2017-05-19T09:35:42.761913 tid3932 [IFO,Core] System reset
+2017-05-19T09:35:42.761913 tid3932 [IFO,Core] Core session ended

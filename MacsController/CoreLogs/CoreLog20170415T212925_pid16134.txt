@@ -1,0 +1,85 @@
+2017-04-15T21:29:25.396811 tid140695844792064 [IFO,LogManager] Enabled primary log file /home/charles/Dropbox/Johan/Code/JavaCode/MacsGUI/CoreLogs/CoreLog20170415T212925_pid16134.txt
+2017-04-15T21:29:25.398128 tid140695844792064 [IFO,App] EDTHangLogger: Started monitoring of EDT hangs
+                                              [       ] [heartbeat timeout = 4500 ms, hang check interval = 1000 ms]
+2017-04-15T21:29:25.398146 tid140695844792064 [IFO,App] User: charles
+2017-04-15T21:29:25.398163 tid140695844792064 [IFO,App] Host: Hofstadter
+2017-04-15T21:29:25.398181 tid140695844792064 [IFO,App] MM Studio version: 1.4.x dev
+2017-04-15T21:29:25.398208 tid140695844792064 [IFO,App] MMCore version 8.5.0
+2017-04-15T21:29:25.398223 tid140695844792064 [IFO,App] Device API version 67, Module API version 10
+2017-04-15T21:29:25.398231 tid140695844792064 [IFO,App] Operating System: Linux (amd64) 4.4.0-71-generic
+2017-04-15T21:29:25.398238 tid140695844792064 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-04-15T21:29:27.835710 tid140695844792064 [IFO,App] Finished waiting for plugins to load
+2017-04-15T21:29:27.947889 tid140695844792064 [IFO,Core] Did unload all devices
+2017-04-15T21:29:27.949002 tid140695844792064 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-04-15T21:29:27.949027 tid140695844792064 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-04-15T21:29:27.949042 tid140695844792064 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-04-15T21:29:27.949077 tid140695844792064 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-04-15T21:29:27.949093 tid140695844792064 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-04-15T21:29:27.949113 tid140695844792064 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-04-15T21:29:27.949128 tid140695844792064 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-04-15T21:29:27.949148 tid140695844792064 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-04-15T21:29:27.949166 tid140695844792064 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-04-15T21:29:27.949192 tid140695844792064 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-04-15T21:29:27.949210 tid140695844792064 [IFO,Core] Will initialize 10 devices
+2017-04-15T21:29:27.949215 tid140695844792064 [IFO,Core] Will initialize device Camera
+2017-04-15T21:29:27.949223 tid140695844792064 [IFO,dev:Camera] Parent Hub not defined.
+2017-04-15T21:29:27.949574 tid140695844792064 [IFO,Core] Did initialize device Camera
+2017-04-15T21:29:27.949580 tid140695844792064 [IFO,Core] Default camera set to Camera
+2017-04-15T21:29:27.949582 tid140695844792064 [IFO,Core] Will initialize device Dichroic
+2017-04-15T21:29:27.949585 tid140695844792064 [IFO,dev:Dichroic] Parent Hub not defined.
+2017-04-15T21:29:27.949623 tid140695844792064 [IFO,Core] Did initialize device Dichroic
+2017-04-15T21:29:27.949627 tid140695844792064 [IFO,Core] Will initialize device Emission
+2017-04-15T21:29:27.949630 tid140695844792064 [IFO,dev:Emission] Parent Hub not defined.
+2017-04-15T21:29:27.949662 tid140695844792064 [IFO,Core] Did initialize device Emission
+2017-04-15T21:29:27.949666 tid140695844792064 [IFO,Core] Will initialize device Excitation
+2017-04-15T21:29:27.949669 tid140695844792064 [IFO,dev:Excitation] Parent Hub not defined.
+2017-04-15T21:29:27.949697 tid140695844792064 [IFO,Core] Did initialize device Excitation
+2017-04-15T21:29:27.949700 tid140695844792064 [IFO,Core] Will initialize device Objective
+2017-04-15T21:29:27.949703 tid140695844792064 [IFO,dev:Objective] Parent Hub not defined.
+2017-04-15T21:29:27.949724 tid140695844792064 [IFO,Core] Did initialize device Objective
+2017-04-15T21:29:27.949727 tid140695844792064 [IFO,Core] Will initialize device Z
+2017-04-15T21:29:27.949729 tid140695844792064 [IFO,dev:Z] Parent Hub not defined.
+2017-04-15T21:29:27.949747 tid140695844792064 [IFO,Core] Did initialize device Z
+2017-04-15T21:29:27.949753 tid140695844792064 [IFO,Core] Will initialize device Path
+2017-04-15T21:29:27.949756 tid140695844792064 [IFO,dev:Path] Parent Hub not defined.
+2017-04-15T21:29:27.949769 tid140695844792064 [IFO,Core] Did initialize device Path
+2017-04-15T21:29:27.949772 tid140695844792064 [IFO,Core] Will initialize device XY
+2017-04-15T21:29:27.949775 tid140695844792064 [IFO,dev:XY] Parent Hub not defined.
+2017-04-15T21:29:27.949779 tid140695844792064 [IFO,Core] Did initialize device XY
+2017-04-15T21:29:27.949781 tid140695844792064 [IFO,Core] Default xy stage set to XY
+2017-04-15T21:29:27.949783 tid140695844792064 [IFO,Core] Will initialize device Shutter
+2017-04-15T21:29:27.949784 tid140695844792064 [IFO,dev:Shutter] Parent Hub not defined.
+2017-04-15T21:29:27.949794 tid140695844792064 [IFO,Core] Did initialize device Shutter
+2017-04-15T21:29:27.949796 tid140695844792064 [IFO,Core] Default shutter set to Shutter
+2017-04-15T21:29:27.949798 tid140695844792064 [IFO,Core] Will initialize device Autofocus
+2017-04-15T21:29:27.949800 tid140695844792064 [IFO,dev:Autofocus] Parent Hub not defined.
+2017-04-15T21:29:27.949803 tid140695844792064 [IFO,Core] Did initialize device Autofocus
+2017-04-15T21:29:27.949806 tid140695844792064 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T21:29:27.949808 tid140695844792064 [IFO,Core] Finished initializing 10 devices
+2017-04-15T21:29:27.949883 tid140695844792064 [IFO,Core] Default camera set to Camera
+2017-04-15T21:29:27.949943 tid140695844792064 [IFO,Core] Default stage set to Z
+2017-04-15T21:29:27.951112 tid140695844792064 [IFO,Core] Did update system state cache
+2017-04-15T21:29:27.969949 tid140695844792064 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-15T21:29:27.971023 tid140695844792064 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T21:29:27.973452 tid140695844792064 [IFO,Core] Did update system state cache
+2017-04-15T21:29:27.973484 tid140695844792064 [IFO,App] Finished updating GUI
+2017-04-15T21:29:27.976680 tid140695844792064 [IFO,App] Startup script file (/home/charles/Dropbox/Johan/Code/JavaCode/MacsGUI/MMStartup.bsh) not present.
+2017-04-15T21:29:28.124997 tid140695844792064 [IFO,Core] Channel group set to Channel
+2017-04-15T21:29:28.328813 tid140695844792064 [IFO,Core] Channel group set to Channel
+2017-04-15T21:29:28.328931 tid140695844792064 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T21:29:28.331926 tid140695844792064 [IFO,Core] Channel group set to Channel
+2017-04-15T21:29:28.332006 tid140695844792064 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T21:29:28.336806 tid140695844792064 [IFO,App] Rebuilding config group table
+2017-04-15T21:29:28.338037 tid140695844792064 [IFO,App] Finished rebuilding config group table
+2017-04-15T21:29:28.405442 tid140695844792064 [IFO,App] Thread 1 (main) terminated with uncaught exception
+2017-04-15T21:29:28.405469 tid140695844792064 [IFO,App] java.lang.NullPointerException
+2017-04-15T21:29:28.405527 tid140695844792064 [IFO,App]   at edu.paulssonlab.macsplugin.api.standardsetup.MacsConfigurationProperties.closePropertiesFile(MacsConfigurationProperties.java:68)
+2017-04-15T21:29:28.405533 tid140695844792064 [IFO,App]   at edu.paulssonlab.macsplugin.api.standardsetup.StandardArduinoMacsDevice.setArduinoConfiguration(StandardArduinoMacsDevice.java:55)
+2017-04-15T21:29:28.405537 tid140695844792064 [IFO,App]   at edu.paulssonlab.macsplugin.api.standardsetup.StandardArduinoMacsDevice.<init>(StandardArduinoMacsDevice.java:68)
+2017-04-15T21:29:28.405541 tid140695844792064 [IFO,App]   at edu.paulssonlab.macsplugin.main.TestMacs.main(TestMacs.java:27)
+2017-04-15T21:30:01.698704 tid140693796255488 [IFO,Core] Channel group set to Channel
+2017-04-15T21:30:01.698818 tid140693796255488 [IFO,Core] Default autofocus set to Autofocus
+2017-04-15T21:30:01.711373 tid140693796255488 [IFO,App] EDTHangLogger: Stopping monitoring of EDT hangs
+2017-04-15T21:30:01.711833 tid140693796255488 [IFO,Core] Did unload all devices
+2017-04-15T21:30:01.711857 tid140693796255488 [IFO,Core] System reset
+2017-04-15T21:30:01.711870 tid140693796255488 [IFO,Core] Core session ended

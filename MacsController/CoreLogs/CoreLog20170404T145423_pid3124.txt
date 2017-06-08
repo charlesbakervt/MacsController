@@ -1,0 +1,120 @@
+2017-04-04T14:54:23.135199 tid3260 [IFO,LogManager] Enabled primary log file C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGUI\CoreLogs\CoreLog20170404T145423_pid3124.txt
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] User: cjb33
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] Host: SB-PAULS-1CJB33
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] MM Studio version: 1.4.22
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] MMCore version 8.1.0
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] Device API version 65, Module API version 10
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] Operating System: Windows 7 (amd64) 6.1
+2017-04-04T14:54:23.135199 tid3260 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-04-04T14:54:24.515337 tid3260 [IFO,App] Finished waiting for plugins to load
+2017-04-04T14:54:24.525338 tid3260 [IFO,Core] Did unload all devices
+2017-04-04T14:54:24.528339 tid3260 [IFO,Core] Did load device COM5 from SerialManager; label = COM5
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DHub from DemoCamera; label = DHub
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-04-04T14:54:24.529339 tid3260 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-Hub from Arduino; label = Arduino-Hub
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-Switch from Arduino; label = Arduino-Switch
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-Shutter from Arduino; label = Arduino-Shutter
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-Input from Arduino; label = Arduino-Input
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-DAC1 from Arduino; label = Arduino-DAC1
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Did load device Arduino-DAC2 from Arduino; label = Arduino-DAC2
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Will initialize 18 devices
+2017-04-04T14:54:24.530339 tid3260 [IFO,Core] Will initialize device COM5
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device COM5
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device DHub
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device DHub
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Camera
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Camera
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Default camera set to Camera
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Dichroic
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Dichroic
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Emission
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Emission
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Excitation
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Excitation
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Objective
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Objective
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Z
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Z
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Path
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Path
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device XY
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device XY
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Default xy stage set to XY
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Shutter
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Shutter
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Default shutter set to Shutter
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Autofocus
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Did initialize device Autofocus
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:54:24.539340 tid3260 [IFO,Core] Will initialize device Arduino-Hub
+2017-04-04T14:54:26.547541 tid3260 [IFO,Core] Did initialize device Arduino-Hub
+2017-04-04T14:54:26.547541 tid3260 [IFO,Core] Will initialize device Arduino-Switch
+2017-04-04T14:54:26.548541 tid3260 [IFO,Core] Did initialize device Arduino-Switch
+2017-04-04T14:54:26.548541 tid3260 [IFO,Core] Will initialize device Arduino-Shutter
+2017-04-04T14:54:26.548541 tid3260 [IFO,Core] Did initialize device Arduino-Shutter
+2017-04-04T14:54:26.548541 tid3260 [IFO,Core] Default shutter set to Arduino-Shutter
+2017-04-04T14:54:26.548541 tid3260 [IFO,Core] Will initialize device Arduino-Input
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Did initialize device Arduino-Input
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Will initialize device Arduino-DAC1
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Did initialize device Arduino-DAC1
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Will initialize device Arduino-DAC2
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Did initialize device Arduino-DAC2
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Finished initializing 18 devices
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Default camera set to Camera
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Default shutter set to Shutter
+2017-04-04T14:54:26.576543 tid3260 [IFO,Core] Default stage set to Z
+2017-04-04T14:54:26.617548 tid3260 [IFO,Core] Did update system state cache
+2017-04-04T14:54:26.661552 tid3260 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-04T14:54:26.662552 tid3260 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:54:26.695555 tid3260 [IFO,Core] Did update system state cache
+2017-04-04T14:54:26.695555 tid3260 [IFO,App] Finished updating GUI
+2017-04-04T14:54:26.696555 tid3260 [IFO,App] Startup script file (C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGUI\MMStartup.bsh) not present.
+2017-04-04T14:54:26.728559 tid3260 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:26.784564 tid3260 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:26.784564 tid3260 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:54:26.787565 tid3260 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:26.787565 tid3260 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:54:26.790565 tid3260 [IFO,App] Rebuilding config group table
+2017-04-04T14:54:26.790565 tid3260 [IFO,App] Finished rebuilding config group table
+2017-04-04T14:54:32.464132 tid1860 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:32.469133 tid5556 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:32.469133 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:54:32.472133 tid1860 [IFO,Core] Channel group set to Channel
+2017-04-04T14:54:32.473133 tid1860 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:56:02.239109 tid4532 [IFO,App] 45 images stored in 82659 ms.
+2017-04-04T14:56:32.709155 tid1052 [IFO,Core] Channel group set to Channel
+2017-04-04T14:56:32.711156 tid5556 [IFO,Core] Channel group set to Channel
+2017-04-04T14:56:32.711156 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:56:32.712156 tid1052 [IFO,Core] Channel group set to Channel
+2017-04-04T14:56:32.712156 tid1052 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:57:37.238608 tid7944 [IFO,App] 9 images stored in 64503 ms.
+2017-04-04T14:58:49.382821 tid5556 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-04T14:58:49.382821 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:58:49.383822 tid5556 [IFO,App] Rebuilding config group table
+2017-04-04T14:58:49.383822 tid5556 [IFO,App] Finished rebuilding config group table
+2017-04-04T14:58:49.419825 tid5556 [IFO,Core] Did update system state cache
+2017-04-04T14:58:49.419825 tid5556 [IFO,Core] Channel group set to Channel
+2017-04-04T14:58:49.419825 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:58:49.419825 tid5556 [IFO,App] Finished updating GUI
+2017-04-04T14:59:22.579141 tid5556 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-04-04T14:59:22.579141 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:59:22.579141 tid5556 [IFO,App] Rebuilding config group table
+2017-04-04T14:59:22.579141 tid5556 [IFO,App] Finished rebuilding config group table
+2017-04-04T14:59:22.615144 tid5556 [IFO,Core] Did update system state cache
+2017-04-04T14:59:22.615144 tid5556 [IFO,Core] Channel group set to Channel
+2017-04-04T14:59:22.615144 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:59:22.615144 tid5556 [IFO,App] Finished updating GUI
+2017-04-04T14:59:24.317315 tid5556 [IFO,Core] Channel group set to Channel
+2017-04-04T14:59:24.317315 tid5556 [IFO,Core] Default autofocus set to Autofocus
+2017-04-04T14:59:25.081391 tid5556 [IFO,Core] Did unload all devices
+2017-04-04T14:59:25.081391 tid5556 [IFO,Core] System reset
+2017-04-04T14:59:25.081391 tid5556 [IFO,Core] Core session ended

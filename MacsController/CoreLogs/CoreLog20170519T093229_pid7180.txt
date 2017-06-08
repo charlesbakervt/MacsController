@@ -1,0 +1,52 @@
+2017-05-19T09:32:29.376913 tid1324 [IFO,LogManager] Enabled primary log file C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGrowthGUI\CoreLogs\CoreLog20170519T093229_pid7180.txt
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] User: cjb33
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] Host: SB-PAULS-1CJB33
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] MM Studio version: 1.4.22
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] MMCore version 8.1.0
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] Device API version 65, Module API version 10
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] Operating System: Windows 7 (amd64) 6.1
+2017-05-19T09:32:29.376913 tid1324 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, 64-bit
+2017-05-19T09:32:31.990913 tid1324 [IFO,App] Finished waiting for plugins to load
+2017-05-19T09:32:32.016913 tid1324 [IFO,Core] Did unload all devices
+2017-05-19T09:32:32.068913 tid1324 [IFO,Core] Did load device COM5 from SerialManager; label = COM5
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DHub from DemoCamera; label = DHub
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DShutter from DemoCamera; label = Shutter
+2017-05-19T09:32:32.096913 tid1324 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2017-05-19T09:32:32.117913 tid1324 [IFO,Core] Did load device Arduino-Hub from Arduino; label = Arduino-Hub
+2017-05-19T09:32:32.117913 tid1324 [IFO,Core] Did load device Arduino-Switch from Arduino; label = Arduino-Switch
+2017-05-19T09:32:32.117913 tid1324 [IFO,Core] Did load device Arduino-Shutter from Arduino; label = Arduino-Shutter
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Did load device Arduino-Input from Arduino; label = Arduino-Input
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Did load device Arduino-DAC1 from Arduino; label = Arduino-DAC1
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Did load device Arduino-DAC2 from Arduino; label = Arduino-DAC2
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Will initialize 18 devices
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Will initialize device COM5
+2017-05-19T09:32:32.118913 tid1324 [IFO,dev:COM5] Failed to open serial port \\.\COM5: CreateFileA() returned Windows system error code 2
+2017-05-19T09:32:32.118913 tid1324 [ERR,Core:dev:COM5] Error in device "COM5": Unknown error in the device (1)
+2017-05-19T09:32:32.118913 tid1324 [IFO,Core] Unloading all devices after failure to load system configuration
+2017-05-19T09:32:32.119913 tid1324 [IFO,Core] Did unload all devices
+2017-05-19T09:32:32.119913 tid1324 [IFO,Core] Now rethrowing original error from system configuration loading
+2017-05-19T09:32:32.176913 tid1324 [IFO,App] Failed to load hardware configuation
+                                   [       ] java.lang.Exception: Line 61: Property,Core,Initialize,1
+                                   [       ] Error in device "COM5": Unknown error in the device (1)
+                                   [       ] 
+                                   [       ]  in Thread[main,5,main]
+                                   [       ]   at mmcorej.MMCoreJJNI.CMMCore_loadSystemConfiguration(Native Method)
+                                   [       ]   at mmcorej.CMMCore.loadSystemConfiguration(CMMCore.java:322)
+                                   [       ]   at org.micromanager.MMStudio.loadSystemConfiguration(MMStudio.java:1723)
+                                   [       ]   at org.micromanager.MMStudio.initializationSequence(MMStudio.java:480)
+                                   [       ]   at org.micromanager.MMStudio.<init>(MMStudio.java:374)
+                                   [       ]   at edu.paulssonlab.macsplugin.main.TestMacs.main(TestMacs.java:10)
+2017-05-19T09:32:34.297913 tid1324 [IFO,App] Updating GUI; config pad = true; from cache = false
+2017-05-19T09:32:34.298913 tid1324 [IFO,Core] Did update system state cache
+2017-05-19T09:32:34.298913 tid1324 [IFO,App] Finished updating GUI
+2017-05-19T09:32:34.300913 tid1324 [IFO,App] Startup script file (C:\Users\cjb33\Dropbox\Johan\Code\JavaCode\MacsGrowthGUI\MMStartup.bsh) not present.
+2017-05-19T09:32:34.435913 tid1324 [IFO,App] Rebuilding config group table
+2017-05-19T09:32:34.435913 tid1324 [IFO,App] Finished rebuilding config group table
